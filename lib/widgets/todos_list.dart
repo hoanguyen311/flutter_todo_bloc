@@ -87,7 +87,10 @@ class TodoItem extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     final title = Text(
-        todo.task
+        todo.task,
+      style: TextStyle(
+        fontSize: 20
+      ),
     );
     final checkbox = Checkbox(
       key: ArchSampleKeys.todoItemCheckbox(todo.id),

@@ -2,6 +2,8 @@
 
 A new Flutter application to learn bloc
 
+![GIF](https://imgur.com/F5w1WH1)
+
 ## Getting Started
 
 This project is a starting point for a Flutter application.
