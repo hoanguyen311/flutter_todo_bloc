@@ -2,7 +2,7 @@
 
 A new Flutter application to learn bloc
 
-![GIF](https://imgur.com/F5w1WH1)
+![GIF](https://i.ibb.co/ky7nHhv/flutter.gif)
 
 ## Getting Started
 
